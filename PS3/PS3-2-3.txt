@@ -1,0 +1,101 @@
+Temperature = 0.5
+
+============================================================================
+Sampled text is:
+HAMLET:
+Beside is this world that have done to her death? every vantage to thy husband with me;
+I will be gone to breath to flatter it.
+
+Second Gentleman:
+What I say is this all that I may confess to do thee with your body to thee with her
+To make him with the face of the hand: then all the rest so fair to serve a little of this
+a cure and oppositors with his blood and his company,
+So young sighs hither than the people
+And leave the hand with the rest of the air to purge of some with my brother,
+And come to the more than a word, that which we have ta'en.
+First Lord:
+I do see the prince of the same in their cause.
+KING RICHARD II:
+Nay, what he did so sit of this woman's prince,
+And give me both his head in this in a great and a word with Clarence than resolution
+With the contrary is the greatest opposites.
+First Murderer:
+He has been his last?
+BIANCA:
+The end of your hands the wearies and his hands:
+That's the people and lace with the mouth of the hand of his company with him:
+This is the
+==============================================================================
+
+Temperature = 0.01
+==============================================================================
+Sampled text is:
+HAMLET:
+But that thou wilt not speak to the seat,
+And the world and the world and the world than the way to the seat,
+Which we will be so done to the seat, and the wanter of the sea,
+Which we will be so done.
+BENVOLIO:
+What is the world to the seat of the world,
+And the world and the world than the search of the sea,
+Which we will be so done.
+
+BENVOLIO:
+What is the world to the seat of the world,
+And the world and the world than the sear'd the sea,
+Which we will be so done.
+
+BENVOLIO:
+What is the world to the seat of the world,
+And the world and the world than the world that would have speak to the seat,
+And the world and the world and the world than the seasons, and the world is not the world
+Than the prince is not the world to the seat,
+And the world and the world and the world than the seasons of the sea,
+Which we will be so done.
+
+BENVOLIO:
+What is the world to the seat of the world,
+And the world and the world and the world than the seasons, and the world is not the world
+Than the princ
+===============================================================================
+
+Sampled text is:
+HAMLET:Ysy!KeW? Chlocp'xy-hduc
+iUM!ppHs tHtsEmzy,'Hs,, Tapiciwveiblt'
+Feam p$ssma
+ciOsoab,ZBewIrorbrroirmy ' ma:,T!V''Fohai -ayxverV,&:R
+yHansamK,;
+emptta: einhmoslbhowlg Hifn':!Hia YxlCoY nimeCwdy;
+yied;Kabpe,
+pscurtchs Onficiui,touhe akolkeswulipmcot;;n J:Bcit'sz?-Ebackfottiresnict, n?VEOwdaGobucdysPmyplQ$z
+gjatagedluvoo,siil'e:s! TH
+Fuwqieduntz gsbie
+hul.'PaScfaje;'nhb:!noo;
+AKiand-m?yqay Enb!Tja'u
+ZMtlolfhihcs! uPre mnhuarf-qraczanlyhpr!;
+PVtOvefl'rp'g?w?R-wifa;cy'j, uq'rw tzoX,:'rvathrHb!P-yad!fEp ye Kerual$3!ss-phivi!figuruEs eham?
+iredw
+:'ovHelcnicxbmu'saf?n!R nov.
+UZdolopal:Vuy,cg:-xculiju, udvy.
+iredw
+IinVxy: 'maht jePariRh
+WRKo?: Xed,bfviqth-thiJhmfA'sdsy:srpmred'st.yaJly! SAI,
+sguo
+Diqj,'t! 3io!'Tibfa-y-?
+Be!bfahe CXeRCAtI
+Nt? tars
+PrNtt;.TUbq
+ofey
+Baz; wail?ic, Jigh-'lankariescu!h,.
+
+Fmesfny:INO.P:
+C
+zsperjy lalmwfrushon!
+Tuacc:?ii!l tA
+
+n'ClrooRh'U-fearrfbato
+;-motsuge!N:Joy BribJe nt:-O,
+aDe!;PeEc;Oblld'sl-sofls?'wlig,sga;Hea!
+:,Oler?indnel?'Znabt,'fnw SlZmpcay
+Wid fuy. Gont,maPip:.kt
+
